@@ -58,13 +58,13 @@ header,
 
 @keyframes pageLoad {
     0% {
-        opacity: 0!important;
+        opacity: 0;
     }
     60% {
-        opacity: 0!important;
+        opacity: 0;
     }
     100% {
-        opacity: 1!important;
+        opacity: 1;
     }
     
 }
