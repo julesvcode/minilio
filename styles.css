@@ -110,36 +110,36 @@ header,
 
 /**** SECTION HEADER ****/
 .notion-callout {
-    border: none;
-    background: transparent;
-    padding: 0;
-    margin: 2rem 0 0;
+    border: none!important;
+    background: transparent!important;
+    padding: 0!important;
+    margin: 2rem 0 0!important;
 }
 .notion-callout .notion-page-icon-inline {
-    display: none;
+    display: none!important;
 }
 
 .notion-callout h3 {
-    margin: 0;
+    margin: 0!important;
 }
 
 .notion-callout .notion-callout-text {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    margin-bottom: .5rem;
+    display: flex!important;
+    justify-content: space-between!important;
+    align-items: center!important;
+    margin-bottom: .5rem!important;
 }
 
 .notion-callout .notion-text {
-    text-align: right;
+    text-align: right!important;
 }
 
 .notion-callout .notion-text .notion-link {
-    opacity: .7;
+    opacity: .7!important;
 }
 
 .notion-callout .notion-text .notion-link:hover {
-    opacity: 1;
+    opacity: 1!important;
 }
 
 /**** END SECTION HEADER ****/
