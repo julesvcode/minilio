@@ -101,7 +101,7 @@ header,
 }
 
 @media (max-width: 640px) {
-    .notion-row {
+    .notion-row:first-child {
         flex-direction: row!important;
     }
 }
