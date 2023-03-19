@@ -196,7 +196,7 @@ header,
     position: absolute!important;
     top: 4px!important;
     right: 10px!important;
-    background-color: var(--card-bg-color)!important;
+    background-color: var(--bg-color)!important;
     padding: 0.25rem 0.75rem!important;
     border-radius: 0.5rem!important;
 }
