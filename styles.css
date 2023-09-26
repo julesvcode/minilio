@@ -77,7 +77,7 @@ header,
     border-radius: 100%!important;
 }
 
-.notion-page-content-inner .notion-asset-wrapper-image img {
+.notion-page-content-inner > .notion-asset-wrapper-image img {
     border-radius: 0!important;
 }
 
