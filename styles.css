@@ -80,10 +80,7 @@ header,
 
 .notion-asset-wrapper-image img:has(+ figcaption) {
     border-radius: 0%!important;
-}
-
-figcaption {
-    display: none!important;
+    max-width: 100%!important;
 }
 
 .notion-page-content-inner > .notion-text .notion-link {
