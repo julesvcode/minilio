@@ -72,7 +72,7 @@ header,
 
 /**** ABOUT SECTION ****/
 
-.notion-asset-wrapper-image img {
+.notion-row .notion-asset-wrapper-image img {
     max-width: 11rem!important;
     border-radius: 100%!important;
 }
