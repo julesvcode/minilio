@@ -83,6 +83,10 @@ header,
     max-width: 100%!important;
 }
 
+figcaption {
+    display: none!important;
+}
+
 .notion-page-content-inner > .notion-text .notion-link {
     text-decoration: underline!important;
 }
