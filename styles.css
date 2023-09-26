@@ -72,10 +72,13 @@ header,
 
 /**** ABOUT SECTION ****/
 
-.notion-row .notion-asset-wrapper-image img,
-.notion-asset-wrapper-image:first-of-type img {
+.notion-row .notion-asset-wrapper-image img {
     max-width: 11rem!important;
     border-radius: 100%!important;
+}
+
+.notion-page-content-inner .notion-asset-wrapper-image img {
+    border-radius: 0!important;
 }
 
 .notion-page-content-inner > .notion-text .notion-link {
